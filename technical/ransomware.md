@@ -11,7 +11,7 @@ It’s one of the most disruptive cyber threats to organizations, with variants 
 ---
 
 ## How Ransomware Works
-1. **Infection Vector:**  
+1. **Attack Vector:**  
    Attackers deliver ransomware via phishing emails, malicious downloads, drive-by attacks, or Remote Desktop Protocol (RDP) brute-force attempts.  
 
 2. **Execution:**  
