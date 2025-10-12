@@ -54,7 +54,7 @@ Poorly configured networks are one of the **top attack vectors** in data breache
 ## Tools and Utilities
 | Category | Examples |
 |-----------|-----------|
-| Network Scanning/ | Nmap, Masscan |
+| Network Scanning | Nmap, Masscan |
 | Configuration Auditing | Lynis, OpenSCAP |
 | Hardening Checklists | CIS Benchmarks, NIST 800-123 |
 | Monitoring | SolarWinds, ELK Stack, SaltStack |
