@@ -4,7 +4,7 @@ Phishing is one of the most common cyberattacks. Attackers trick you into reveal
 
 ---
 
-## 📧 Common Types of Phishing
+## Common Types of Phishing
 - **Email Phishing** – Fake emails from “banks” or “services” asking you to click a link.  
 - **Spear Phishing** – Targeted attacks against individuals or organizations.  
 - **Smishing** – Fake SMS messages.  
@@ -12,7 +12,7 @@ Phishing is one of the most common cyberattacks. Attackers trick you into reveal
 
 ---
 
-## ⚠️ How to Spot a Phishing Attempt
+## How to Spot a Phishing Attempt
 - Urgent or threatening language (“Your account will be locked!”).  
 - Suspicious links (hover to preview before clicking).  
 - Unexpected attachments.  
@@ -20,7 +20,7 @@ Phishing is one of the most common cyberattacks. Attackers trick you into reveal
 
 ---
 
-## ✅ How to Protect Yourself
+## How to Protect Yourself
 - Double-check URLs before clicking.  
 - Never share personal info via email or SMS.  
 - Report suspicious emails to your IT/security team.  
@@ -28,7 +28,7 @@ Phishing is one of the most common cyberattacks. Attackers trick you into reveal
 
 ---
 
-## 🚩 Quick Checklist
+## Quick Checklist
 - [ ] Verify links before clicking  
 - [ ] Don’t download unexpected attachments  
 - [ ] Report phishing attempts immediately  

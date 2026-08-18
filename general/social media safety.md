@@ -22,7 +22,7 @@ Protecting accounts and managing the content you share are key to long-term safe
 
 ## Account hardening
 1. **Use unique, strong passwords** for each social account (see `general/passwords.md`).  
-2. **Enable 2-Factor Authentication** — prefer app-based authenticators or hardware keys.  
+2. **Enable 2-Factor Authentication:** prefer app-based authenticators or hardware keys.  
 3. **Save recovery & backup codes** in a password manager or secure vault.  
 4. **Review active sessions** and log out remote devices you don’t recognize.  
    - Typical path: *Settings → Security → Where you’re logged in / Active sessions*  

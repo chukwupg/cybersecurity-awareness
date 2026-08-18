@@ -78,7 +78,7 @@ Poorly configured networks are one of the **top attack vectors** in data breache
 
 ---
 
-## ✍ **Author**
+## **Author**
 
 👩‍💻 **Chukwu PraiseGod**  
 Follow my journey: [X](https://x.com/chukwupg) | [LinkedIn](https://linkedin.com/in/chukwupg)  

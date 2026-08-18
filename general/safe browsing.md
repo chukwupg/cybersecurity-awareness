@@ -60,12 +60,12 @@ Browsing the web is routine, but attackers use websites, ads, and links to sprea
 
 ## Helpful extensions & tools
 *(Only install from official extension stores and review permissions)*  
-- **uBlock Origin** — blocks ads and many malicious scripts.  
-- **Privacy Badger** — blocks invisible trackers.  
+- **uBlock Origin:** blocks ads and many malicious scripts.  
+- **Privacy Badger:** blocks invisible trackers.  
 - **HTTPS Everywhere** or use built-in HTTPS upgrades in modern browsers.  
-- **Password manager extension** — for filling unique credentials safely (see `general/passwords.md`).  
-- **NoScript (advanced users)** — blocks JavaScript by default (high security, needs configuration).  
-- **Browser’s built-in password breach alerts** — enable if available.
+- **Trusted password manager extension:** for auto-generating and filling unique credentials safely (see [`general/passwords.md`](/general/passwords.md)).  
+- **NoScript (advanced users):** blocks JavaScript by default (high security, needs configuration).  
+- **Browser’s built-in password breach alerts:** enable if available.
 
 ---
 
