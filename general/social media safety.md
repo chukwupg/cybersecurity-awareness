@@ -21,7 +21,7 @@ Protecting accounts and managing the content you share are key to long-term safe
 ---
 
 ## Account hardening
-1. **Use unique, strong passwords** for each social account (see `general/passwords.md`).  
+1. **Use unique, strong passwords** for each social account (see [`general/passwords.md`](/general/passwords.md)).  
 2. **Enable 2-Factor Authentication:** prefer app-based authenticators or hardware keys.  
 3. **Save recovery & backup codes** in a password manager or secure vault.  
 4. **Review active sessions** and log out remote devices you don’t recognize.  
@@ -39,7 +39,7 @@ Protecting accounts and managing the content you share are key to long-term safe
 
 ---
 
-## Content hygiene — think before you post
+## Content hygiene: think before you post
 - Avoid posting **sensitive details**: phone numbers, home address, travel dates, full date-of-birth, government IDs, or copies of documents.  
 - Avoid posting images containing **metadata (EXIF)** that reveals location — strip EXIF before uploading if needed.  
 - Be cautious with “check-in” posts that reveal current location in real time.  
@@ -70,7 +70,7 @@ Protecting accounts and managing the content you share are key to long-term safe
 
 ## Photo & metadata hygiene
 - **Strip EXIF metadata** from photos before posting if you’re concerned about revealing location.  
-- Many phones and apps offer an option to remove location data at upload time — enable it.
+- Many phones and apps offer an option to remove location data at upload time, enable it if not enabled by default.
 
 ---
 

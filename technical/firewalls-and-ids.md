@@ -76,7 +76,7 @@ Together, they form a strong perimeter defense layer in any network.
 - *Cisco Firepower Configuration Guide*  
 - *Zeek Documentation*  
 
-## ✍ **Author**
+## **Author**
 
 👩‍💻 **Chukwu PraiseGod**  
 Follow my journey: [X](https://x.com/chukwupg) | [LinkedIn](https://linkedin.com/in/chukwupg)  

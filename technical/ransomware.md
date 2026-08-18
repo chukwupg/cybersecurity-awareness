@@ -106,7 +106,7 @@ It’s one of the most disruptive cyber threats to organizations, with variants 
 
 ---
 
-## ✍ **Author**
+## **Author**
 
 👩‍💻 **Chukwu PraiseGod**  
 Follow my journey: [X](https://x.com/chukwupg) | [LinkedIn](https://linkedin.com/in/chukwupg)  

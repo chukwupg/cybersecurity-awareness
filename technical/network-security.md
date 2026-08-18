@@ -100,7 +100,7 @@ A secure network ensures that legitimate users have reliable access while blocki
 
 ---
 
-## ✍ **Author**
+## **Author**
 
 👩‍💻 **Chukwu PraiseGod**  
 Follow my journey: [X](https://x.com/chukwupg) | [LinkedIn](https://linkedin.com/in/chukwupg)  
