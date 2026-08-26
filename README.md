@@ -10,10 +10,10 @@ This repository blends **general awareness** tips for everyday users with **tech
 
 ## Repository Structure
 
-- general/ → Guides for everyday users (passwords, phishing, safe browsing, etc.)
-- technical/ → Learning materials for IT & cybersecurity learners
-- resources/ → Books, websites, free courses, tools, and labs
-- visuals/ → Infographics, posters, and awareness campaign materials
+- general/ : Guides for everyday users (passwords, phishing, safe browsing, etc.)
+- technical/ : Learning materials for IT & cybersecurity learners
+- resources/ : Books, websites, free courses, tools, and labs
+- visuals/ : Infographics, posters, and awareness campaign materials
 
 
 ---
@@ -21,31 +21,31 @@ This repository blends **general awareness** tips for everyday users with **tech
 ## General Awareness (Non-Technical Users)
 
 Simple guides to help you stay safe:
-- [Passwords](general/passwords.md) – How to create and manage strong passwords  
-- [Phishing](general/phishing.md) – Spotting and avoiding phishing attempts  
-- [Safe Browsing](general/safe-browsing.md) – Secure browsing practices  
-- [Mobile Safety](general/mobile-safety.md) – Protecting your smartphone  
-- [Social Media Safety](general/social-media-safety.md) – Staying safe on social platforms  
+- [Passwords](general/passwords.md) : How to create and manage strong passwords  
+- [Phishing](general/phishing.md) : Spotting and avoiding phishing attempts  
+- [Safe Browsing](general/safe-browsing.md) : Secure browsing practices  
+- [Mobile Safety](general/mobile-safety.md) : Protecting your smartphone  
+- [Social Media Safety](general/social-media-safety.md) : Staying safe on social platforms  
 
 ---
 
 ## Technical Awareness (For Learners & Professionals)
 
-Resources for those diving deeper into cybersecurity:
-- [Network Security](technical/network-security.md) – Basics of securing networks  
-- [Ransomware](technical/ransomware.md) – How it works and how to defend against it  
-- [Malware Analysis](technical/malware-analysis.md) – Intro to analyzing malicious software  
-- [Incident Response](technical/incident-response.md) – Steps for handling security breaches  
+Resources for those diving deeper into cybersecurity :
+- [Network Security](technical/network-security.md) : Basics of securing networks  
+- [Ransomware](technical/ransomware.md) : How it works and how to defend against it  
+- [Malware Analysis](technical/malware-analysis.md) : Intro to analyzing malicious software  
+- [Incident Response](technical/incident-response.md) : Steps for handling security breaches  
 
 ---
 
 ## Resources
 
-- [Books](resources/books.md) – Recommended cybersecurity reads  
-- [Websites](resources/websites.md) – Trusted sources and communities  
-- [Free Courses](resources/free-courses.md) – Learn online at no cost  
-- [Labs](resources/labs.md) – Hands-on practice environments  
-- [Tools](resources/tools.md) – Useful security tools and utilities  
+- [Books](resources/books.md) : Recommended cybersecurity reads  
+- [Websites](resources/websites.md) : Trusted sources and communities  
+- [Free Courses](resources/free-courses.md) : Learn online at no cost  
+- [Labs](resources/labs.md) : Hands-on practice environments  
+- [Tools](resources/tools.md) : Useful security tools and utilities  
 
 ---
 
@@ -60,9 +60,9 @@ Browse the [`visuals/`](visuals/) folder for:
 
 ## How to Use
 
-- **Beginners** → Start with the [general](general/) guides.  
-- **Learners/Professionals** → Dive into the [technical](technical/) section.  
-- **Everyone** → Explore [resources](resources/) and [visuals](visuals/) for quick learning.  
+- **Beginners** : Start with the [general](general/) guides.  
+- **Learners/Professionals** : Dive into the [technical](technical/) section.  
+- **Everyone** : Explore [resources](resources/) and [visuals](visuals/) for quick learning.  
 
 ---
 
