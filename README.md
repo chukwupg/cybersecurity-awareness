@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Awareness
+# Cybersecurity Awareness
 
 Welcome to my repository **Cybersecurity Awareness** - a collection of guides, resources, and visuals designed to promote safe online practices for **everyone**.  
 
@@ -8,7 +8,7 @@ This repository blends **general awareness** tips for everyday users with **tech
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - general/ → Guides for everyday users (passwords, phishing, safe browsing, etc.)
 - technical/ → Learning materials for IT & cybersecurity learners
@@ -18,7 +18,7 @@ This repository blends **general awareness** tips for everyday users with **tech
 
 ---
 
-## 🔑 General Awareness (Non-Technical Users)
+## General Awareness (Non-Technical Users)
 
 Simple guides to help you stay safe:
 - [Passwords](general/passwords.md) – How to create and manage strong passwords  
@@ -29,7 +29,7 @@ Simple guides to help you stay safe:
 
 ---
 
-## 🛡️ Technical Awareness (For Learners & Professionals)
+## Technical Awareness (For Learners & Professionals)
 
 Resources for those diving deeper into cybersecurity:
 - [Network Security](technical/network-security.md) – Basics of securing networks  
@@ -39,7 +39,7 @@ Resources for those diving deeper into cybersecurity:
 
 ---
 
-## 📚 Resources
+## Resources
 
 - [Books](resources/books.md) – Recommended cybersecurity reads  
 - [Websites](resources/websites.md) – Trusted sources and communities  
@@ -49,7 +49,7 @@ Resources for those diving deeper into cybersecurity:
 
 ---
 
-## 🎨 Visuals & Awareness Campaigns
+## Visuals & Awareness Campaigns
 
 Browse the [`visuals/`](visuals/) folder for:
 - Infographics (e.g., strong passwords, phishing awareness)  
@@ -58,7 +58,7 @@ Browse the [`visuals/`](visuals/) folder for:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 - **Beginners** → Start with the [general](general/) guides.  
 - **Learners/Professionals** → Dive into the [technical](technical/) section.  
@@ -66,7 +66,7 @@ Browse the [`visuals/`](visuals/) folder for:
 
 ---
 
-## 🤝 Contributing & Feedback
+## Contributing & Feedback
 
 Contributions are welcome! If you have:
 - Tips, guides, or infographics to share  
@@ -77,19 +77,19 @@ Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file and open a pull request
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** – free to use and share for educational purposes.  
 
 ---
 
-## 💡 Stay Aware, Stay Secure
+## Stay Aware, Stay Secure
 
 Cybersecurity is everyone’s responsibility. Small habits like using strong passwords, enabling 2FA, and staying cautious online make a big difference.  
 
 ---
 
-## ✍ **Author**
+## **Author**
 
 👩‍💻 **Chukwu PraiseGod**  
 Follow my journey: [X](https://x.com/chukwupg) | [LinkedIn](https://linkedin.com/in/chukwupg)  
