@@ -35,7 +35,8 @@ Resources for those diving deeper into cybersecurity :
 - [Network Security](technical/network-security.md) : Basics of securing networks  
 - [Ransomware](technical/ransomware.md) : How it works and how to defend against it  
 - [Malware Analysis](technical/malware-analysis.md) : Intro to analyzing malicious software  
-- [Incident Response](technical/incident-response.md) : Steps for handling security breaches  
+- [Firewall and IDS](technical/firewalls-and-ids.md) : How technical controls such as firewall and IDS can be used to strengthen defend againt malicious activities 
+- [Secure Network Configurations](/technical/secure-network-configuration.md) : Covers the best practices to ensure a secure network through secure configurations
 
 ---
 
@@ -49,10 +50,10 @@ Resources for those diving deeper into cybersecurity :
 
 ---
 
-## Visuals & Awareness Campaigns
+## Visuals & Awareness Campaigns (Planned improvement)
 
 Browse the [`visuals/`](visuals/) folder for:
-- Infographics (e.g., strong passwords, phishing awareness)  
+- Infographics (e.g., strong password samples, phishing awareness)  
 - Posters for awareness campaigns  
 - Simple flowcharts (e.g., how ransomware spreads)  
 
@@ -75,11 +76,13 @@ Contributions are welcome! If you have:
 
 Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file and open a pull request.  
 
+Or message me through my socials with your contribution. 
+
 ---
 
 ## License
 
-This project is licensed under the **MIT License** – free to use and share for educational purposes.  
+This project is licensed under the **MIT License**: free to use and share for educational purposes.  
 
 ---
 
